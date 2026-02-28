@@ -6,6 +6,7 @@
   font-variation-settings:
     "wdth" 100;
 } 
+
 /* shared style */
 .text-primary{
     color: #FD6E0A;
@@ -24,6 +25,7 @@
 .dark-2{
     color: #474747;
 }
+
 
 /* Nav Styles */
 
